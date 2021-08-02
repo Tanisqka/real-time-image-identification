@@ -21,7 +21,9 @@
   .result_para_tag
   {
     box-shadow:5px 5px 5px rgb(11, 246, 195);
-    font-size: 20px;
+    font-size: 20px; 
+  }
+  .result_para_tag span{
     white-space: pre-line;
   }
   .copy_right_footer{
